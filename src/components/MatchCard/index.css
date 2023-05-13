@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.li1 {
+  background-color: #1e293b;
+  height: 230px;
+  width: 200px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+}
+.logo3 {
+  height: 50px;
+  width: 50px;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}
+.team {
+  color: white;
+  font-family: 'roboto';
+  font-size: 13px;
+  margin-top: 13px;
+}
+.result {
+  color: white;
+  font-family: 'roboto';
+  font-size: 13px;
+  margin-top: 14px;
+}

@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  margin-top: 20px;
+  background-color: #1e293b;
+  padding: 20px;
+}
+.h {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: white;
+  margin-bottom: 20px;
+}
+.p {
+  font-family: 'roboto';
+  font-size: 14px;
+  color: white;
+  margin-bottom: 10px;
+}
+.logo {
+  height: 200px;
+  width: 200px;
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.card1 {
+  margin-top: 80px;
+}
+.card2 {
+  margin-top: 30px;
+}
